@@ -1,0 +1,14 @@
+0
+Douglas 1
+Venn 1
+1 5
+LAND
+TIGER TIGER 5 0
+LAND
+
+RIVER
+
+RIVER
+
+LAND
+LION LION 6 1
